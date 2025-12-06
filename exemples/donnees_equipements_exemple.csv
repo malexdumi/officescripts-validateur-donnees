@@ -1,0 +1,9 @@
+id_equipement,nom,categorie,localisation,date_inspection,nb_entretiens
+EQ-001,Spectrophotomètre UV-Vis,Analyse optique,Laboratoire A,15/03/2024,3
+EQ-002,Balance analytique,Pesée,Laboratoire B,20/03/2024,5
+EQ-003,,Mesure terrain,Réserve terrain,01/04/2024,2
+EQ-004,Centrifugeuse,Séparation,,10/04/2024,1
+EQ-005,Agitateur magnétique,Préparation,Laboratoire B,2024-04-12,quatre
+EQ-006,Turbidimètre,Analyse optique,Laboratoire C,02/05/2024,2
+EQ-007,Conductimètre,Mesure terrain,Réserve terrain,10/05/2024,
+EQ-008,Microscope optique,Observation,Laboratoire A,18/05/2024,6
